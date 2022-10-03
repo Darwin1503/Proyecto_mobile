@@ -1,0 +1,40 @@
+.targets{
+    display: flex;
+    width: 830px;
+    margin: 0 auto;
+}
+.targets .product-title-tasas{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.targets-2{
+    display: flex;
+    width: 830px;
+    margin: 0 auto;
+}
+
+.targets-2 .product-title-information{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.main-tables-container{
+    display: flex;
+    max-width: 1163px;
+    margin: 0 auto;
+}
+
+.table-1{
+    display: flex;
+    flex-direction: column;
+    width: 830px;
+    margin: 0 auto;
+}
+
+.table-2{
+    display: flex;
+    flex-direction: column;
+    width: 830px;
+    margin: 0 auto;
+}
