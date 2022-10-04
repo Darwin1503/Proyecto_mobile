@@ -862,6 +862,7 @@ main-tables-container{
 
 footer{
     background-color: #205375;
+    height: 200px;
 }
 .main-container-footer{
     display: flex;
