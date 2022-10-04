@@ -1,2 +1,2 @@
 # Proyecto_mobile
-Proyecto hecho con la metodología de mobile-first
+Maquetacion pagina web
